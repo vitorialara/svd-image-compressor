@@ -92,13 +92,13 @@ airflow scheduler
 
 ---
 
-## ✅ Skills Demonstrated
+## ✅ Skills 
 
-- ✅ Distributed data engineering with **Airflow** and **PySpark**
-- ✅ Image compression with **SVD** and NumPy
-- ✅ Cloud-native architecture using **MongoDB** and **GCS**
-- ✅ ML pipeline instrumentation with **MLflow**
-- ✅ API-based ingestion, metadata management, and analytics-readiness
+- Distributed data engineering with **Airflow** and **PySpark**
+- Image compression with **SVD** and NumPy
+- Cloud-native architecture using **MongoDB** and **GCS**
+- ML pipeline instrumentation with **MLflow**
+- API-based ingestion, metadata management, and analytics-readiness
 
 ---
 
